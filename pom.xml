@@ -19,8 +19,4 @@
         <module>application</module>
         <module>ms-launcher</module>
     </modules>
-
-    <properties>
-        <java.version>11</java.version>
-    </properties>
 </project>
